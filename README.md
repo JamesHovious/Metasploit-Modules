@@ -1,7 +1,5 @@
 This is a repository of custom scanners, exploits, post exploit scripts, and payloads.
 
-Initially I'll populate it with 'test' code that that you can use them as templates to build your own custom modules.
-
 **Installation**
 
 On a Kali linux box just download (or clone) this repo and rename the 'msf' directory to '.msf4' and put it in your home directory. Then within 'msfconsole' do reload_all and your module should appear.
