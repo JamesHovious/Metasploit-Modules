@@ -4,7 +4,7 @@ This is a repository of custom scanners, exploits, post exploit scripts, and pay
 
 **Installation**
 
-On a Kali linux box just download (or clone) this repo and rename the 'msf' directory to '.msf4' and put it in your home directory. Then within 'msfconsole' do reload_all and your module should appear.
+On a Kali linux box just download (or clone) this repo and rename the `msf` directory to `.msf4` and put it in your home directory. If the `.msf` directory already exists, then just merge this directory with the existing one. Then within `msfconsole` do `reload_all` and your module should appear.
 
 **NOTE**
 If your module does not appear that means you most likely have a syntax error. Metasploit will not throw errors, but instead fail silently.
